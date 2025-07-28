@@ -2,9 +2,6 @@
 
 Bem-vindo ao repositório do Jogo do Número Secreto! Este projeto vai além de um simples jogo de adivinhação; ele representa uma jornada de aprendizado e uma exploração criativa das tecnologias fundamentais da web.
 
-![Capa do Projeto](./assets/cover.png) 
-*(Sugestão: Crie uma imagem de capa legal para o seu projeto e substitua o arquivo `cover.png` na pasta `assets`!)*
-
 ## 🚀 Sobre o Projeto
 
 O Jogo do Número Secreto é um desafio clássico da programação, mas com um toque especial: a interatividade. O objetivo não era apenas criar a lógica do jogo, mas sim transformá-lo em uma experiência divertida e envolvente para o usuário, explorando como a tecnologia pode criar uma ponte mágica entre o código e a interação humana.
